@@ -47,7 +47,7 @@ public class PlayerInputs : MonoBehaviour
     {
         if (!GameManager.Instance.GameIsPaused && !GameManager.Instance.GameIsOver)
         {
-            if (_itsFirstInput)
+            if (_itsFirstInput && context.action.name == "Fly")
             {
                 _itsFirstInput = false;
                 _playerMovements.FirstInput();
