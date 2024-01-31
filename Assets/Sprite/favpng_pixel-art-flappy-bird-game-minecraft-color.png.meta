@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 039843f2aee86c14d8ca546beb364644
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_pixel-art-flappy-bird-game-minecraft-color_0
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 150
+        width: 255
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75904b7a037f1dd4c8d4cf3c77cc8e92
+      internalID: -188409088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_pixel-art-flappy-bird-game-minecraft-color_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 150
+        width: 255
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b176ccb0ca719742845f883eae8dc1c
+      internalID: -1285659479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_pixel-art-flappy-bird-game-minecraft-color_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 255
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc4d95f422902a4d9dce1803fe81380
+      internalID: 659927278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      favpng_pixel-art-flappy-bird-game-minecraft-color_0: -188409088
+      favpng_pixel-art-flappy-bird-game-minecraft-color_1: -224436915
+      favpng_pixel-art-flappy-bird-game-minecraft-color_10: -395265804
+      favpng_pixel-art-flappy-bird-game-minecraft-color_11: 1227638374
+      favpng_pixel-art-flappy-bird-game-minecraft-color_12: -1285659479
+      favpng_pixel-art-flappy-bird-game-minecraft-color_13: 711307794
+      favpng_pixel-art-flappy-bird-game-minecraft-color_14: 449766475
+      favpng_pixel-art-flappy-bird-game-minecraft-color_15: 1057915292
+      favpng_pixel-art-flappy-bird-game-minecraft-color_16: -490695842
+      favpng_pixel-art-flappy-bird-game-minecraft-color_17: -839274468
+      favpng_pixel-art-flappy-bird-game-minecraft-color_18: -1417372708
+      favpng_pixel-art-flappy-bird-game-minecraft-color_19: -1292719226
+      favpng_pixel-art-flappy-bird-game-minecraft-color_2: -707496311
+      favpng_pixel-art-flappy-bird-game-minecraft-color_20: 1257610541
+      favpng_pixel-art-flappy-bird-game-minecraft-color_21: -603053516
+      favpng_pixel-art-flappy-bird-game-minecraft-color_22: -64177293
+      favpng_pixel-art-flappy-bird-game-minecraft-color_23: 1332765322
+      favpng_pixel-art-flappy-bird-game-minecraft-color_24: 1293692815
+      favpng_pixel-art-flappy-bird-game-minecraft-color_25: 659927278
+      favpng_pixel-art-flappy-bird-game-minecraft-color_26: -2101672219
+      favpng_pixel-art-flappy-bird-game-minecraft-color_27: 1128861438
+      favpng_pixel-art-flappy-bird-game-minecraft-color_28: -358060182
+      favpng_pixel-art-flappy-bird-game-minecraft-color_29: -1200512789
+      favpng_pixel-art-flappy-bird-game-minecraft-color_3: 1738995469
+      favpng_pixel-art-flappy-bird-game-minecraft-color_30: 365811340
+      favpng_pixel-art-flappy-bird-game-minecraft-color_31: -1503332843
+      favpng_pixel-art-flappy-bird-game-minecraft-color_32: 1991355254
+      favpng_pixel-art-flappy-bird-game-minecraft-color_33: 239064238
+      favpng_pixel-art-flappy-bird-game-minecraft-color_34: 887521958
+      favpng_pixel-art-flappy-bird-game-minecraft-color_35: -78489154
+      favpng_pixel-art-flappy-bird-game-minecraft-color_36: -16040178
+      favpng_pixel-art-flappy-bird-game-minecraft-color_37: -760300487
+      favpng_pixel-art-flappy-bird-game-minecraft-color_38: -1546275723
+      favpng_pixel-art-flappy-bird-game-minecraft-color_39: -1846746913
+      favpng_pixel-art-flappy-bird-game-minecraft-color_4: -1780022253
+      favpng_pixel-art-flappy-bird-game-minecraft-color_40: 479334051
+      favpng_pixel-art-flappy-bird-game-minecraft-color_41: -2043566719
+      favpng_pixel-art-flappy-bird-game-minecraft-color_42: -892555449
+      favpng_pixel-art-flappy-bird-game-minecraft-color_43: 1920212743
+      favpng_pixel-art-flappy-bird-game-minecraft-color_5: 1402403792
+      favpng_pixel-art-flappy-bird-game-minecraft-color_6: -697899752
+      favpng_pixel-art-flappy-bird-game-minecraft-color_7: -1622348530
+      favpng_pixel-art-flappy-bird-game-minecraft-color_8: 1340325076
+      favpng_pixel-art-flappy-bird-game-minecraft-color_9: -493903824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

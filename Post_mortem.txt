@@ -1,0 +1,5 @@
+- Beaucoup de déclarations de composants oubliés
+- Coroutine de chute finallement remplacée par une animation
+- Différents scripts gérant les menus finallement regroupés en un seul manager
+- Fonctionnement du spawn des tuyaux revu pour une seule simple coroutine avec délais
+- Ajout de petits éléments de polish comme des animations et des sfx ou certains éléments qui n'apparaissent que lorsque le joueur fait une première action
